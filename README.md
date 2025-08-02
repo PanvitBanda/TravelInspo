@@ -97,10 +97,9 @@ Panvit Banda
 ---
 ### 📄 License
 
-This project is open-source and available under the Travelinspo/License
+This project is open-source and available under the [MIT License](./TravelInspo/LICENSE).
 
 ---
-
 
 
 
