@@ -86,7 +86,8 @@ https://www.loom.com/share/26baa899c5394031beeee433dcf510ac?sid=284f7eaf-99a7-4b
 👨‍💻 Author
 Panvit Banda
 🎓 B.Tech Final Year Student | 💡 Web & AI Enthusiast
-🔗 LinkedIn • GitHub
+📬 [LinkedIn](https://www.linkedin.com/in/panvit-banda/)
+💻 [GitHub](https://github.com/PanvitBanda)
 
 ---
 
