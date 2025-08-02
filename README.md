@@ -1,10 +1,10 @@
-# ✈️ Travel Inspo – Discover & Dream 🌍
+### ✈️ Travel Inspo – Discover & Dream 🌍
 
 **Travel Inspo** is a fully responsive, aesthetic web layout designed to ignite wanderlust! Built with modern HTML & CSS techniques (Flexbox + Grid), this project is a visual showcase of popular travel destinations, wrapped in a clean, accessible interface.
 
 ---
 
-## 🌟 Features
+### 🌟 Features
 
 - 🌐 **Responsive Design** – Seamless experience across mobile, tablet, and desktop  
 - 🏞️ **Hero Section** – Eye-catching banner with a call-to-action  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧱 Folder Structure
+### 🧱 Folder Structure
 travel-inspo/
 ├── index.html
 ├── styles.css
@@ -30,7 +30,7 @@ travel-inspo/
 
 ---
 
-## 🚀 How to Use
+### 🚀 How to Use
 
 1. 📥 Clone the repository:
    ```bash
@@ -42,12 +42,12 @@ travel-inspo/
 
 ---
 
-📸 Live Preview
+### 📸 Live Preview
 https://www.loom.com/share/26baa899c5394031beeee433dcf510ac?sid=284f7eaf-99a7-4b30-bf5e-8d8d5e226c7e
 
 ---
 
-🖼️ Travel Page Previews
+### 🖼️ Travel Page Previews
 
 🧑‍💻 Code Overview
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/708b44ac-2b01-455d-8bbb-f3997a423915" />
@@ -57,7 +57,8 @@ https://www.loom.com/share/26baa899c5394031beeee433dcf510ac?sid=284f7eaf-99a7-4b
 
 ---
 
-🛠️ Built With
+### 🛠️ Built With
+
 💻 HTML5 – Semantic structure and content
 
 🎨 CSS3 – Flexbox, Grid, Transitions, Media Queries
@@ -66,7 +67,8 @@ https://www.loom.com/share/26baa899c5394031beeee433dcf510ac?sid=284f7eaf-99a7-4b
 
 ---
 
-🔮 Future Improvements
+### 🔮 Future Improvements
+
 🔎 Search Filter – Filter destinations by keyword or type
 
 🎯 Category Tabs – Toggle between continents or themes (e.g. Adventure, Culture, Nature)
@@ -83,7 +85,7 @@ https://www.loom.com/share/26baa899c5394031beeee433dcf510ac?sid=284f7eaf-99a7-4b
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
 Panvit Banda
 🎓 B.Tech Final Year Student | 💡 Web & AI Enthusiast
 📬 [LinkedIn](https://www.linkedin.com/in/panvit-banda/)
@@ -93,6 +95,8 @@ Panvit Banda
 ### 📄 License
 
 This project is open-source and available under the [MIT License](./Travel Page/MIT License).
+
+---
 
 
 
