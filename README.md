@@ -91,7 +91,7 @@ Panvit Banda
 
 ---
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Travel Page/MIT License
 
 
 
