@@ -16,17 +16,20 @@
 ---
 
 ### 🧱 Folder Structure
-travel-inspo/
-├── index.html
-├── styles.css
-├── README.md
-└── images/
-├── hero.jpg
-├── bali.jpg
-├── iceland.jpg
-├── japan.jpg
-├── peru.jpg
-└── italy.jpg
+📁 travel-inspo/
+│
+├── index.html         
+├── styles.css          
+├── README.md           
+│
+└── images/            
+    ├── hero.jpg
+    ├── bali.jpg
+    ├── iceland.jpg
+    ├── japan.jpg
+    ├── peru.jpg
+    └── italy.jpg
+
 
 ---
 
