@@ -90,6 +90,7 @@ Panvit Banda
 💻 [GitHub](https://github.com/PanvitBanda)
 
 ---
+### 📄 License
 
 This project is open-source and available under the [MIT License](./Travel Page/MIT License).
 
